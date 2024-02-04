@@ -14,35 +14,7 @@ This project serves as a template for building Python applications using Django 
 
 ## Project Structure
 
-/project-root
-│
-├── backend/
-│ ├── app1/
-│ │ ├── migrations/
-│ │ │ ├── ...
-│ │ ├── **init**.py
-│ │ ├── admin.py
-│ │ ├── apps.py
-│ │ ├── models.py
-│ │ ├── serializers.py
-│ │ ├── tests.py
-│ │ └── views.py
-│ │
-│ ├── app2/
-│ │ ├── ...
-│ │
-│ ├── manage.py
-│ ├── requirements.txt
-│ └── your_django_project/
-│
-├── .gitignore
-├── docker-compose.yml
-├── Dockerfile
-└── README.md
-
-#
-
-Project Name
+- [Python](https://www.python.org/) (for local development)
 
 ## Overview
 
@@ -66,7 +38,6 @@ This project serves as a template for building Python applications using Django 
 
 - Docker
 - Docker Compose
-- [Python](https://www.python.org/) (for local development)
 
 ### Setup Instructions
 
